@@ -52,5 +52,5 @@ for n in num4:
     print(square_num)
 
 # 11. print("Sum of integers from 1 to 20:")
-print(sum(num4))
+print(sum(num))
 
