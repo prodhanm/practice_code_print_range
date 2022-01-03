@@ -26,7 +26,7 @@ for n in num2:
     print(square_num)
 
 # 6. print('Integers from 20 to 1:')
-num3 = list(range(20, 0, -1))
+num3 = list(reversed(num))
 print(f"num3 = {num3}")
 
 # 7. print('Evens from 20 to 2:')
